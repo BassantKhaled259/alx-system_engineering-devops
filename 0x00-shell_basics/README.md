@@ -5,6 +5,7 @@
  Display current directory contents, including hidden files "ls -la"
  Display current directory contents "ls -lna"
  Create a script that creates a directory "mkdir /tmp/my_first_directory"
+ moving a file "mv /tmp/betty /tmp/my_first_directory"
  
  
  
