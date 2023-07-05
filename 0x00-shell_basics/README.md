@@ -9,6 +9,7 @@
  delete a file "rm -r /tmp/my_first_directory/betty"
  delete a directory "rmdir /tmp/my_first_directory"
  a script that changes the working directory to the previous one "cd -"
+ a script that lists all files "ls -al . .. /boot"
  
  
   
