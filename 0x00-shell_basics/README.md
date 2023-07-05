@@ -7,6 +7,7 @@
  Create a script that creates a directory "mkdir /tmp/my_first_directory"
  moving a file "mv /tmp/betty /tmp/my_first_directory"
  delete a file "rm -r /tmp/my_first_directory/betty"
+ delete a directory "rmdir /tmp/my_first_directory"
  
  
  
