@@ -11,6 +11,7 @@
  a script that changes the working directory to the previous one "cd -"
  a script that lists all files "ls -al . .. /boot"
  a script that prints the type of the file named iamafile "file /tmp/iamafile"
+ Create a symbolic link "in -s /bin/ls _ls_"
  
  
  
