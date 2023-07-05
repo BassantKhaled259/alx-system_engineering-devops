@@ -12,7 +12,8 @@
  a script that lists all files "ls -al . .. /boot"
  a script that prints the type of the file named iamafile "file /tmp/iamafile"
  Create a symbolic link "In -s /bin/ls  __ls__"
- 
+  Copy HTML files "cp -un *.html ../"
+  
  
  
  
