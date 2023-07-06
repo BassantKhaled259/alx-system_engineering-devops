@@ -14,7 +14,8 @@
  Create a symbolic link "In -s /bin/ls  __ls__"
   Copy HTML files "cp -un *.html ../"
   Let’s move "mv [[:upper:]]* /tmp/u"
-  
+ Clean Emacs "rm -r *~"
+ 
  
  
  
