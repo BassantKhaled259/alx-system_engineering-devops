@@ -15,6 +15,7 @@
   Copy HTML files "cp -un *.html ../"
   Let’s move "mv [[:upper:]]* /tmp/u"
  Clean Emacs "rm -r *~"
+ Tree "mkdir -p welcome/to/school"
  
  
  
