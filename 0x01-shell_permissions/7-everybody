@@ -1,2 +1,3 @@
 #!/bin/bash
-chomd a+x hello
+chomd ugo+x hello
+
