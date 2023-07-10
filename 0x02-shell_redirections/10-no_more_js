@@ -1,0 +1,2 @@
+#!/bin/bash
+file . -mindepth -name "*.js" -type f -delete
