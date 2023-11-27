@@ -10,5 +10,5 @@ do
     else
         echo "Best School"
     fi
-    let counter+=1
+    let expr counter+=1
 done
