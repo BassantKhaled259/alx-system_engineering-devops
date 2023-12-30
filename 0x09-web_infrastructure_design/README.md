@@ -1,5 +1,7 @@
 # 0x09. Web infrastructure design
 
+[Visit Board](https://imgur.com/user/BassantaKhaled/posts)
+
 # Key concepts
 
 - Network basics concept page
